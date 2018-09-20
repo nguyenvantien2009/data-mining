@@ -5,12 +5,12 @@ Algorthms: TF.IDF, K-Mean, HAC...
 
 # Install
 Run command line to install in NodeJS.
-```
+```PowerShell
 npm install data-harness --save
 ```
 # TF-IDF
 Term freqency & Iverse Document Frequency.
-```
+```node
 var TfIdf = require('data-harness').TfIdf;
 var tfidf = new TfIdf();
 
