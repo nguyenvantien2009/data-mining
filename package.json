@@ -1,6 +1,6 @@
 {
     "name": "data-harness",
-    "version": "1.0.0",
+    "version": "1.0.1",
     "description": "Library Code about Data Mining",
     "main": "index.js",
     "scripts": {
