@@ -20,7 +20,7 @@ tfidf.addDoc("I need time for a developer a project about data-mining");
 
 // show results
 var rs_idf = tfidf.tf("developer");
-var rs_tfidf = tfidf.tfidf();
+var rs_tfidf = tfidf.tfidf("developer");
 
 console.log(rs_idf);
 console.log(rs_tfidf);
